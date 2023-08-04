@@ -6,11 +6,11 @@
 }
 
 a:link {
-    color: red;
+    color: yellow;
 }
 
 a:visited {
-    color:green;
+    color:navajowhite;;
 }
 
 a:hover {
@@ -23,6 +23,7 @@ a:active {
 
 .head {
     font-family: "Lucida Console", "Courier New", monospace;
+    color: red
 }
 
 .sub-head {
@@ -52,4 +53,7 @@ ol {
 
 body {
     text-align: center;
+    background-image: url(/home/kutto/repos/odin-recipes/images/flambe.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
